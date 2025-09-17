@@ -1,4 +1,4 @@
-# This one is a continuation of a project from pandas dataframe. We use a cleaned csv file here.
+# Walmart Sales Data Analysis
 
 CREATE DATABASE walmart_db;
 USE walmart_db;
